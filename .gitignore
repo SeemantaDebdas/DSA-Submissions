@@ -1,0 +1,9 @@
+
+*.vsidx
+*.db
+*.db-shm
+*.db-wal
+*.opendb
+Arrays/Medium/.vs/Medium/v17/.wsuo
+*.sqlite
+.vs/DSA-Submissions/v17/.wsuo
